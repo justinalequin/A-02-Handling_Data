@@ -1,7 +1,15 @@
 Explain what the ".map" properties of arrays does.
 
+The map property works like a loop. It can parse through an object and create a new array with 
+----------------------
 Explain what the ".reduce" properties of arrays does.
 
+The reduce property is similar to map but usually returns a smaller set of data than it took in based on set paramaters. 
+----------------------
 How is ".map" different from reduce?
 
+Map returns an equal amount of items that it is passed on. Reduce can do a lot of what map does, but is usually used to return a single item. 
+-----------------------
 What are "switch" statements?
+
+Switch statements are like if statements that can produce different results based on what case is being called.
